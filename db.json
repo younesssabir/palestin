@@ -1,0 +1,473 @@
+{
+  "language": [
+    {
+      "francais": "francais",
+      "arabe": "arabe",
+      "english": "english"
+    }
+  ],
+  "parentsCategories": [
+    {
+      "id": "categ1",
+      "nom": "fruits",
+      "slug": "fruits",
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623758390634.jpeg",
+      "subCategories": [
+        {
+          "id": "categ7",
+          "nom":"orange",
+          "subCategories": [
+            {
+              "id":"az",
+              "nom":"sub2",
+              "subCategories": [
+                {
+                  "id":"ze",
+                  "nom":"sub3",
+                  "subCategories": [
+                    {
+                      "id": "ert",
+                      "nom":"a",
+                      "subCategories": [
+                        {
+                          "id": "rt",
+                          "nom":"p",
+                          "subCategories": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "tyrt",
+                      "nom":"b",
+                      "subCategories": [
+                        {
+                          "id": "zedf",
+                          "nom":"z",
+                          "subCategories": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "fgjr",
+                      "nom":"c",
+                      "subCategories": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id":"qdrf",
+              "nom":"sub2",
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "id": "categ8",
+          "nom":"LEMONS",
+          "subCategories": []
+        },
+        {
+          "id": "categ9",
+          "nom":"APPLE",
+          "subCategories": []
+        },
+        {
+          "id": "categ10",
+          "nom":"GRAPES",
+          "subCategories": []
+        },
+        {
+          "id": "categ11",
+          "nom":"FIGS",
+          "subCategories": []
+        }
+      ]
+    },
+    {
+      "id": "categ2",
+      "nom": "vegetables",
+      "slug": "vegetables",
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623772539977.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ3",
+      "nom": "DRIES FRUIT NUTS",
+      "slug": "dries-fruit-nuts",
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623758631440.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ4",
+      "nom": "OILS AND SPICES",
+      "slug": "oils-and-spices",
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623758688063.jpeg",
+      "subCategories": [
+        {
+          "id": "catdfsdeg9",
+          "nom":"a",
+          "subCategories": []
+        },
+        {
+          "id": "sdgxx",
+          "nom":"b",
+          "subCategories": []
+        },
+        {
+          "id": "qsdqr",
+          "nom":"c",
+          "subCategories": []
+        }
+      ]
+    },
+    {
+      "id": "categ5",
+      "nom": "HONEY",
+      "slug": "honey",
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623768320251.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ6",
+      "nom": "FISHES",
+      "slug": "fishes",
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623768500215.jpeg",
+      "subCategories": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "categ1",
+      "nom": "fruits",
+      "slug": "fruits",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623758390634.jpeg",
+      "subCategories": [
+        {
+          "id": "categ7",
+          "nom":"orange",
+          "subCategories": []
+        },
+        {
+          "id": "categ8",
+          "nom":"LEMONS",
+          "subCategories": []
+        },
+        {
+          "id": "categ9",
+          "nom":"APPLE",
+          "subCategories": []
+        },
+        {
+          "id": "categ10",
+          "nom":"GRAPES",
+          "subCategories": []
+        },
+        {
+          "id": "categ11",
+          "nom":"FIGS",
+          "subCategories": []
+        }
+      ]
+    },
+    {
+      "id": "categ2",
+      "nom": "vegetables",
+      "slug": "vegetables",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623772539977.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ3",
+      "nom": "DRIES FRUIT NUTS",
+      "slug": "dries-fruit-nuts",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623758631440.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ4",
+      "nom": "OILS AND SPICES",
+      "slug": "oils-and-spices",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623758688063.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ5",
+      "nom": "HONEY",
+      "slug": "honey",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623768320251.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ6",
+      "nom": "FISHES",
+      "slug": "fishes",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623768500215.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ7",
+      "nom": "orange",
+      "slug": "orange",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623763578188.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ8",
+      "nom": "LEMONS",
+      "slug": "lemons",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623763626649.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ9",
+      "nom": "APPLE",
+      "slug": "apple",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623763669045.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ10",
+      "nom": "GRAPES",
+      "slug": "grapes",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623763712906.jpeg",
+      "subCategories": []
+    },
+    {
+      "id": "categ11",
+      "nom": "FIGS",
+      "slug": "figs",
+      "clicked": false,
+      "img": "https://storeno.b-cdn.net/stores/6-2021/1623763812824.jpeg",
+      "subCategories": []
+    }
+  ],
+  "products": [
+    {
+      "id": "product1",
+      "nom": "Organic Oranges",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat.",
+      "slug": "Organic-Oranges",
+      "img": [
+        {
+          "id": "https://storeno.b-cdn.net/stores/6-2021/1623766176630.jpeg"
+        },
+        {
+          "id": "https://www.lesproduitsnaturels.com/userfiles/www.lesproduitsnaturels.com/images/orange.jpg"
+        }
+      ],
+      "categorie_id": "categ7",
+      "price": 22.99,
+      "compare_price": 43.99,
+      "reviews": 3,
+      "comments": [
+        {
+          "user_id": "id1",
+          "user_name": "Youness",
+          "stars": 4,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi pt."
+        },
+        {
+          "user_id": "id2",
+          "user_name": "Khalid",
+          "stars": 3,
+          "comments": "Lorem ipsum dolor sit amet culpa excepturi perferendis hic error."
+        },
+        {
+          "user_id": "id3",
+          "user_name": "Karim",
+          "stars": 5,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicin."
+        },
+        {
+          "user_id": "id4",
+          "user_name": "Said",
+          "stars": 2,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae q."
+        }
+      ]
+    },
+    {
+      "id": "product2",
+      "nom": "Organic Soft",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat.",
+      "slug": "Organic-Soft",
+      "img": [
+        {
+          "id": "https://storeno.b-cdn.net/stores/6-2021/1623765905481.jpeg"
+        }
+      ],
+      "categorie_id": "categ7",
+      "price": 26.99,
+      "compare_price": 38.99,
+      "reviews": 5,
+      "comments": [
+        {
+          "user_id": "id1",
+          "user_name": "Youness",
+          "stars": 4,
+          "comments": "i qui. Vitae dolore beatae nulla asperiores placeat."
+        },
+        {
+          "user_id": "id2",
+          "user_name": "Khalid",
+          "stars": 3,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa"
+        },
+        {
+          "user_id": "id3",
+          "user_name": "Karim",
+          "stars": 5,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ovident odat."
+        },
+        {
+          "user_id": "id4",
+          "user_name": "Said",
+          "stars": 2,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+      ]
+    },
+    {
+      "id": "product3",
+      "nom": "Organic Navil",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat.",
+      "slug": "Organic-Navil",
+      "img": [
+        {
+          "id": "https://storeno.b-cdn.net/stores/6-2021/1623765622071.jpeg"
+        }
+      ],
+      "categorie_id": "categ7",
+      "price": 28.99,
+      "compare_price": 51.99,
+      "reviews": 3,
+      "comments": [
+        {
+          "user_id": "id1",
+          "user_name": "Youness",
+          "stars": 4,
+          "comments": "ditiis cupiditate dicta quas placeat doloribus veritatis sapiente,"
+        },
+        {
+          "user_id": "id2",
+          "user_name": "Khalid",
+          "stars": 3,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quisaceat."
+        },
+        {
+          "user_id": "id3",
+          "user_name": "Karim",
+          "stars": 5,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qua"
+        },
+        {
+          "user_id": "id4",
+          "user_name": "Said",
+          "stars": 2,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qu"
+        }
+      ]
+    },
+    {
+      "id": "product4",
+      "nom": "Eggplant",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae quis culpa excepturi perferendis hic error ipsum provident blanditiis cupiditate dicta quas placeat doloribus veritatis sapiente, voluptatum incidunt harum! Labore, officia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident odit sed earum, tempora beatae recusandae ut molestias ducimus dolorum numquam ad. Labore, deleniti qui. Vitae dolore beatae nulla asperiores placeat.",
+      "slug": "eggplant",
+      "img": [
+        {
+          "id": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTL6Li4wfcmwEncGe-7rn11uisH7SghLhVNvEPXSYzrP3tNIyHiP6n-Cn03nXekaoeLif8TALN0V5SQdKRLj2s"
+        }
+      ],
+      "categorie_id": "categ2",
+      "price": 30.99,
+      "compare_price": 63.99,
+      "reviews": 2,
+      "comments": [
+        {
+          "user_id": "id1",
+          "user_name": "Youness",
+          "stars": 4,
+          "comments": "i qui. Vitae dolore beatae nulla asperiores placeat."
+        },
+        {
+          "user_id": "id2",
+          "user_name": "Khalid",
+          "stars": 3,
+          "comments": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaees placeat."
+        },
+        {
+          "user_id": "id3",
+          "user_name": "Karim",
+          "stars": 5,
+          "comments": "Lorem ipsum dolor siiores placeat."
+        },
+        {
+          "user_id": "id4",
+          "user_name": "Said",
+          "stars": 2,
+          "comments": "Lorem ipsum dolor sit avident blanditiis cupidiplaceat."
+        }
+      ]
+    }
+  ],
+  "cart_length": [
+    {
+      "id": "product3",
+      "quantity": "1",
+      "price": "28.99"
+    }
+  ],
+  "top_categories_length": [
+    {
+      "id": "categ1"
+    },
+    {
+      "id": "categ2"
+    },
+    {
+      "id": "categ3"
+    },
+    {
+      "id": "categ4"
+    },
+    {
+      "id": "categ5"
+    },
+    {
+      "id": "categ6"
+    }
+  ],
+  "top_products_length": [
+    {
+      "id": "product1"
+    },
+    {
+      "id": "product2"
+    },
+    {
+      "id": "product3"
+    },
+    {
+      "id": "product4"
+    }
+  ],
+  "currency": [
+    {
+      "derham": "dh",
+      "euro": "€",
+      "dollar": "$"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "parentsCategories":[{"id":"categ1","nom":"fruits","img":"https://storeno.b-cdn.net/stores/6-2021/1623758390634.jpeg","subCategories":[{"id":"categ7"},{"id":"categ8"}
+                                                                                                                        ,{"id":"categ9"},{"id":"categ10"}
+                                                                                                                        ,{"id":"categ11"}]},
+                        {"id":"categ2","nom":"vegetables","img":"https://storeno.b-cdn.net/stores/6-2021/1623772539977.jpeg","subCategories":[]},
+                        {"id":"categ3","nom":"DRIES FRUIT NUTS","img":"https://storeno.b-cdn.net/stores/6-2021/1623758631440.jpeg","subCategories":[]},
+                        {"id":"categ4","nom":"OILS AND SPICES","img":"https://storeno.b-cdn.net/stores/6-2021/1623758688063.jpeg","subCategories":[]},
+                        {"id":"categ5","nom":"HONEY","img":"https://storeno.b-cdn.net/stores/6-2021/1623768320251.jpeg","subCategories":[]},
+                        {"id":"categ6","nom":"FISHES","img":"https://storeno.b-cdn.net/stores/6-2021/1623768500215.jpeg","subCategories":[]}]
+    
+    ,"categories":[{"id":"categ1","nom":"fruits","slug":"fruits","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623758390634.jpeg"
+                                                                                                            ,"subCategories":[{"id":"categ7"},{"id":"categ8"}
+                                                                                                            ,{"id":"categ9"},{"id":"categ10"},{"id":"categ11"}]}                                                                                           
+                 ,{"id":"categ2","nom":"vegetables","slug":"vegetables","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623772539977.jpeg","subCategories":[]}
+                 ,{"id":"categ3","nom":"DRIES FRUIT NUTS","slug":"DRIES-FRUIT-NUTS","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623758631440.jpeg","subCategories":[]}
+                 ,{"id":"categ4","nom":"OILS AND SPICES","slug":"OILS-AND-SPICES","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623758688063.jpeg","subCategories":[]}
+                 ,{"id":"categ5","nom":"HONEY","slug":"HONEY","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623768320251.jpeg","subCategories":[]}
+                 ,{"id":"categ6","nom":"FISHES","slug":"FISHES","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623768500215.jpeg","subCategories":[]}
+                 ,{"id":"categ7","nom":"ORANGE","slug":"ORANGE","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623763578188.jpeg","subCategories":[]}
+                 ,{"id":"categ8","nom":"LEMONS","slug":"LEMONS","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623763626649.jpeg","subCategories":[]}
+                 ,{"id":"categ9","nom":"APPLE","slug":"APPLE","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623763669045.jpeg","subCategories":[]}
+                 ,{"id":"categ10","nom":"GRAPES","slug":"GRAPES","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623763712906.jpeg","subCategories":[]}
+                 ,{"id":"categ11","nom":"FIGS","slug":"FIGS","clicked":false,"img":"https://storeno.b-cdn.net/stores/6-2021/1623763812824.jpeg","subCategories":[]}
+                ]
+
+    ,"products":[{"id":"product1","nom":"Organic Oranges","slug":"Organic-Oranges","img":"img","categorie_id":"categ7","price":"22.99"}
+                ,{"id":"product2","nom":"Oranges Valenziana","slug":"Oranges-Valenziana","img":"img","categorie_id":"categ7","price":"24.99"}
+                ,{"id":"product3","nom":"Organic Soft","slug":"Organic-Soft","img":"img","categorie_id":"categ7","price":"26.99"}
+                ,{"id":"product4","nom":"Organic Navil","slug":"Organic-Navil","img":"img","categorie_id":"categ7","price":"28.99"}]
+}
